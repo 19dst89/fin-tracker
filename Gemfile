@@ -30,6 +30,14 @@ gem 'jbuilder', '~> 2.5'
 # Devise
 gem 'devise'
 
+# Twitter Bootstrap
+gem 'twitter-bootstrap-rails'
+gem 'jquery-rails'
+gem 'therubyracer'
+
+# devise bootstrap
+gem 'devise-bootstrap-views'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
