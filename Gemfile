@@ -38,6 +38,9 @@ gem 'therubyracer'
 # devise bootstrap
 gem 'devise-bootstrap-views'
 
+# Stocks
+gem 'stock_quote'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
